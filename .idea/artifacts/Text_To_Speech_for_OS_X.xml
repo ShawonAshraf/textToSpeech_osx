@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Text To Speech for OS X">
+    <output-path>$PROJECT_DIR$/out/artifacts/Text_To_Speech_for_OS_X</output-path>
+    <root id="archive" name="Text To Speech for OS X.jar" />
+  </artifact>
+</component>
